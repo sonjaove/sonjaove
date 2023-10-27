@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sonjaove
-- 👀 I’m interested in learning more about github, rapid typing, java, python, C++ and more efficient languages that are primarily used for making a simulation. 
-- 🌱 I’m currently learning python, java. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1. email- the.seven.year.old.ove@gmail.com.
+- 👋 Hi, I’m Vedanshi Vaghela 
+- 👀 I’m interested in learning more about github, git, rapid typing, java, python, data structures and more efficient languages that are primarily used for making a simulation. 
+- 🌱 I’m currently learning python. 
+- 💞️ I’m looking to collaborate on making scientific simulations. 
+- 📫 How to reach me 1. email- the.seven.year.old.ove@gmail.com 
+                      2. vedanshi23@iiserb.ac.in 
 
 <!---
 sonjaove/sonjaove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
