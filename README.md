@@ -18,7 +18,16 @@
 </div>
 
 - 💞️ I’m looking to collaborate on nothing atm, but
-- 
+  - 🤝 Let's Connect!
+
+  <div align="center">
+    
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshi-vaghela/)
+    [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanshi23@iiserb.ac.in)
+    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonjaove)
+    
+  </div>
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: meh 
 <div align="center">
