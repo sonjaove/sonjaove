@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vedanshi Vaghela
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F74F&background=0000004D&center=true&vCenter=true&width=435&lines=%3CAI%2FML%3E;mATH+%26+Phy;Music" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2900&pause=1000&color=23F736&center=true&vCenter=true&width=435&lines=%3CAI%2FML%3E;mATH+%26+Phy;Music" alt="Typing SVG" />
 </div>
 
 - 👀 I’m interested in a lot of things, but....
