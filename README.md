@@ -4,7 +4,7 @@
 </div>
 
 - 👀 I’m interested in a lot of things, but....
-- 🌱 I’m currently learning AI/ML and web dev
+- 🌱 I’m currently learning AI/ML and web dev and touch typing 
 - 🛠️ Tech Stack
 
 <div align="center">
@@ -36,7 +36,7 @@
   </div>
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: meh 
+- ⚡ Fun fact: meh
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonjaove&show_icons=true&theme=radical" alt="vedanshi's GitHub Stats" />
 </div>
