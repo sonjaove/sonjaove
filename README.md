@@ -37,6 +37,9 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: meh
+- Publicaitons:
+    - [PrecipFormer: Efficient Transformer for Precipitation Downscaling](https://openaccess.thecvf.com/content/WACV2025W/GeoCV/papers/Kumar_PrecipFormer_Efficient_Transformer_for_Precipitation_Downscaling_WACVW_2025_paper.pdf)
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonjaove&show_icons=true&theme=radical" alt="vedanshi's GitHub Stats" />
 </div>
