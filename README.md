@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sonjaove&show_icons=true&theme=radical" alt="vedanshi's GitHub Stats" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonjaove&color=blue" alt="Profile Views" />
-</div>
 <!---
 sonjaove/sonjaove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
