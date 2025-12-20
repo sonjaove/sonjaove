@@ -31,6 +31,17 @@
   
   </div>
 
+- 🖥️ Operating Systems
+
+<div align="center">
+
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![WSL](https://img.shields.io/badge/-WSL-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
+[![Ubuntu%20VM](https://img.shields.io/badge/-Ubuntu%20VM-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+</div>
+
 - 💞️ I’m looking to collaborate on nothing atm, but
   - 🤝 Let's Connect!
 
@@ -44,7 +55,7 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: meh
-- Publicaitons:
+- Publications:
     > ***for other projects checkout my repositories.***
     - [PrecipFormer: Efficient Transformer for Precipitation Downscaling](https://openaccess.thecvf.com/content/WACV2025W/GeoCV/papers/Kumar_PrecipFormer_Efficient_Transformer_for_Precipitation_Downscaling_WACVW_2025_paper.pdf): here I worked with the data prepration for the main model. 
 ---
